@@ -1,0 +1,8 @@
+name: binder-c-kernel
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling
+  - clang
+  - gcc
+  - make
